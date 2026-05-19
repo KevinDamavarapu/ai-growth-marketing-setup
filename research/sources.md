@@ -92,7 +92,43 @@ The goal is to identify repeatable systems and operational insights relevant to 
 
 
 ------------
-| Ross Hudgens | Content marketing, SEO operations | LinkedIn, YouTube | Focuses on scalable SEO workflows and content production systems |
+| Ross Hudgens | AI visibility, transactional SEO, data journalism, content operations | LinkedIn, YouTube, Podcasts | 2025–2026 | Founder of Siege Media focused on scalable SEO systems, AI visibility tracking, bottom-funnel content strategy, data journalism, and AI-assisted content workflows. Strong emphasis on transactional SEO, proprietary data, and cross-platform discoverability in AI-driven search ecosystems. |
+
+---
+
+# Collected Sources - 19th May, 2026
+
+---
+
+### LinkedIn Posts
+
+1. **AI-Generated Content Is Flooding Tech Reddit Communities**
+   - Platform: LinkedIn
+   - Focus: AI-generated content, Reddit ecosystems, LLM citations
+   - Insight:
+     AI-generated discussion content is increasingly saturating tech-focused Reddit communities, potentially reducing trust quality for both users and AI systems relying on those discussions for citations.
+
+2. **Three-Way Comparison Pages as an AI-Era SEO Strategy**
+   - Platform: LinkedIn
+   - Focus: Transactional SEO, comparison pages, buyer intent
+   - Insight:
+     Multi-brand comparison pages may become increasingly valuable in AI-driven search environments because they align naturally with conversational and complex buyer evaluation behavior.
+
+### Podcast / Video Research
+
+1. **AI Visibility, Data Journalism, and the Future of SEO**
+   - Platform: SuperMarketers Podcast / YouTube
+   - Focus Areas:
+     - AI visibility tracking
+     - transactional SEO
+     - data journalism
+     - bottom-funnel content
+     - LinkedIn discoverability
+     - AI-assisted workflows
+     - content refresh systems
+   - Key Conclusion:
+     SEO is increasingly shifting toward transactional intent alignment, proprietary insights, AI visibility tracking, and cross-platform discoverability as AI-generated search experiences evolve.
+------------
 | Bernard Huang | AI SEO tools, content optimization | LinkedIn, YouTube | Founder perspective on AI-assisted content optimization workflows |
 | Ryan Law | Content marketing systems | LinkedIn, Blog | Strong operational insights into scalable content production |
 | Julian Goldie | AI SEO workflows | YouTube, LinkedIn | Practical demonstrations of AI-assisted SEO systems |
