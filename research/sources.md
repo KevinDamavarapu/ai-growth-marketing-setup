@@ -17,8 +17,42 @@ The goal is to identify repeatable systems and operational insights relevant to 
 # Experts
 
 | Expert | Focus Area | Platforms | Why Selected |
-|---|---|---|---|
-| Kevin Indig | SEO strategy, AI search, growth | LinkedIn, Blog, Podcasts | Strong strategic thinking around AI search evolution and content systems |
+------------
+| Kevin Indig | AI search, SEO strategy, content systems | LinkedIn, YouTube, Podcasts | 2026 | Research-driven SEO strategist focused on AI Overviews, LLM optimization, content structure, and evolving search behavior. Strong emphasis on AI visibility, trust systems, and cross-platform discoverability. |
+
+---
+
+# Collected Sources - 19th May, 2026
+
+### LinkedIn Posts
+
+1. **G2 Paid Profiles Receive More Citations**
+   - Platform: LinkedIn
+   - Focus: AI citations, profile optimization, structured discoverability
+   - Insight:
+     Paid and optimized profiles receive significantly more citations, suggesting that structured authority signals increasingly influence AI-driven visibility systems.
+
+2. **AI Models Mention Strong Brands More Than Publishers**
+   - Platform: LinkedIn
+   - Focus: AI search behavior, brand authority
+   - Insight:
+     AI systems appear to prioritize recognizable consumer brands for mentions while treating publishers primarily as citation sources.
+
+### Podcast / Video Research
+
+1. **SEO in the Age of AI | Kevin Indig on Google Overviews, E-Commerce & The Future of Search**
+   - Platform: The Page 2 Podcast
+   - Duration: 56 minutes
+   - Focus Areas:
+     - AI Overviews
+     - LLM optimization
+     - trust signals
+     - Reddit and LinkedIn influence
+     - SEO KPI evolution
+     - content structure
+   - Key Conclusion:
+     SEO is evolving from a click-focused discipline toward an influence, trust, and visibility-driven ecosystem shaped by AI-generated answers.
+------------
 | Lily Ray | Technical SEO, Google updates, AI search | LinkedIn, X, YouTube | Highly respected SEO expert with deep understanding of search quality and AI implications |
 | Ross Hudgens | Content marketing, SEO operations | LinkedIn, YouTube | Focuses on scalable SEO workflows and content production systems |
 | Bernard Huang | AI SEO tools, content optimization | LinkedIn, YouTube | Founder perspective on AI-assisted content optimization workflows |
