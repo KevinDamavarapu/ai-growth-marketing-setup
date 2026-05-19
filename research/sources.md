@@ -130,7 +130,45 @@ The goal is to identify repeatable systems and operational insights relevant to 
      SEO is increasingly shifting toward transactional intent alignment, proprietary insights, AI visibility tracking, and cross-platform discoverability as AI-generated search experiences evolve.
 ------------
 | Bernard Huang | AI SEO tools, content optimization | LinkedIn, YouTube | Founder perspective on AI-assisted content optimization workflows |
-| Ryan Law | Content marketing systems | LinkedIn, Blog | Strong operational insights into scalable content production |
+------------
+| Ryan Law | AI-assisted content operations, editorial systems, scalable content workflows | LinkedIn, YouTube, Podcasts | 2025–2026 | Director of Content Marketing at Ahrefs focused on AI-assisted content production, editorial workflows, content governance, scalable SEO operations, and human-in-the-loop AI systems. Strong emphasis on operationalizing content strategy through structured AI workflows and iterative refinement systems. |
+
+---
+
+# Collected Sources - 19th May, 2026
+
+---
+
+### LinkedIn Posts
+
+1. **Schema Markup Alone Does Not Improve AI Citations**
+   - Platform: LinkedIn
+   - Focus: Schema markup, AI citations, evidence-based SEO testing
+   - Insight:
+     Schema markup may correlate with AI visibility, but experimental testing suggests it does not directly increase citations in AI search systems on its own.
+
+2. **Using AI to Analyze Product Visibility Across a Large Content Library**
+   - Platform: LinkedIn
+   - Focus: Content operations, AI-assisted analysis, product-content alignment
+   - Insight:
+     AI-assisted content auditing systems can help identify product visibility gaps, optimize editorial alignment, and improve large-scale content governance workflows.
+
+### Podcast / Video Research
+
+1. **How to Automate Blog Writing With AI From Keyword to Published**
+   - Platform: Ahrefs Podcast / YouTube
+   - Focus Areas:
+     - AI content automation
+     - agentic workflows
+     - editorial AI systems
+     - content updating pipelines
+     - human-in-the-loop AI
+     - AI-assisted research
+     - workflow orchestration
+     - AI + human collaboration
+   - Key Conclusion:
+     High-quality AI-assisted content production depends on structured workflows, iterative refinement, organizational knowledge systems, and strong human editorial oversight rather than simple one-shot prompting.
+------------
 | Julian Goldie | AI SEO workflows | YouTube, LinkedIn | Practical demonstrations of AI-assisted SEO systems |
 | Sam Oh | SEO education | YouTube | Clear educational content explaining SEO systems and workflows |
 | Matt Diggity | Affiliate SEO, AI content testing | YouTube, Blog | Strong experimentation mindset and practical SEO testing |
