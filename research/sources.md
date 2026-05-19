@@ -53,7 +53,45 @@ The goal is to identify repeatable systems and operational insights relevant to 
    - Key Conclusion:
      SEO is evolving from a click-focused discipline toward an influence, trust, and visibility-driven ecosystem shaped by AI-generated answers.
 ------------
-| Lily Ray | Technical SEO, Google updates, AI search | LinkedIn, X, YouTube | Highly respected SEO expert with deep understanding of search quality and AI implications |
+| Lily Ray | AI search, Google quality systems, E-E-A-T, AI content risk | LinkedIn, YouTube, Conferences | 2025–2026 | SEO strategist focused on AI search evolution, search quality systems, E-E-A-T, AI-generated content risks, and the relationship between traditional SEO and emerging AI search ecosystems. Strong emphasis on sustainable SEO, reputation signals, and AI visibility grounded in search fundamentals. |
+
+---
+
+# Collected Sources - 19th May, 2026
+
+### LinkedIn Posts
+
+1. **Risks of Scaling AI Content for SEO**
+   - Platform: LinkedIn
+   - Focus: AI-generated content, SEO risk, Google updates
+   - Insight:
+     Large-scale AI content production can create temporary traffic growth but may introduce long-term SEO instability, especially after major Google quality updates.
+
+2. **LinkedIn’s Programmatic SEO Strategy Using Curated UGC Pages**
+   - Platform: LinkedIn
+   - Focus: Programmatic SEO, UGC, domain authority
+   - Insight:
+     Large authority platforms such as LinkedIn can scale curated user-generated content pages more aggressively than smaller publishers due to stronger trust and domain authority signals.
+
+### Video / Conference Research
+
+1. **GEO, AEO, LLMO — Separating Fact From Fiction and How to Win in AI Search**
+   - Platform: YouTube / Conference Presentation
+   - Published: November 11, 2025
+   - Focus Areas:
+     - AI search evolution
+     - GEO / AEO / LLMO
+     - Retrieval-Augmented Generation (RAG)
+     - AI visibility
+     - SEO metrics evolution
+     - multimodal search
+     - brand reputation
+     - AI citations
+   - Key Conclusion:
+     AI search represents an evolution of SEO rather than a replacement for it. Most effective AI visibility strategies are still grounded in strong SEO fundamentals, structured content, reputation management, and discoverability across trusted platforms.
+
+
+------------
 | Ross Hudgens | Content marketing, SEO operations | LinkedIn, YouTube | Focuses on scalable SEO workflows and content production systems |
 | Bernard Huang | AI SEO tools, content optimization | LinkedIn, YouTube | Founder perspective on AI-assisted content optimization workflows |
 | Ryan Law | Content marketing systems | LinkedIn, Blog | Strong operational insights into scalable content production |
