@@ -313,4 +313,38 @@ The goal is to identify repeatable systems and operational insights relevant to 
    - Key Conclusion:
      Fully autonomous AI-agent systems remain unreliable and operationally risky. The most effective AI implementations currently involve collaborative human-in-the-loop workflows where AI acts as a productivity amplifier rather than a fully autonomous replacement system.
 ------------
-| Nathan Gotch | SEO systems and automation | YouTube, Blog | Focuses on repeatable SEO frameworks and automation |
+| Nathan Gotch | AI-assisted SEO systems, search-everywhere optimization, authority engineering, semantic content strategy | LinkedIn, YouTube, Educational Analysis | 2025–2026 | SEO educator and founder of Gotch SEO focused on AI-assisted SEO systems, search-everywhere optimization, semantic content engineering, authority building, and AI-era search visibility. Strong emphasis on operational SEO workflows, retrieval-aware optimization, differentiated content strategy, and omnichannel brand authority systems. |
+
+---
+
+# Collected Sources - 20th May, 2026
+
+### LinkedIn Posts
+
+1. **Building AI-Assisted SEO and AEO Content Systems With Differentiated Information Gain**
+   - Platform: LinkedIn
+   - Focus: AEO workflows, semantic SEO, content differentiation
+   - Insight:
+     AI-assisted SEO and AEO workflows perform best when supported by layered research systems, semantic entity analysis, differentiated content positioning, and operational content-brief engineering.
+
+2. **Effort-Based Differentiation and Firsthand Experience Signals in AI-Era SEO**
+   - Platform: LinkedIn
+   - Focus: Experience-driven SEO, AI-search differentiation, information gain
+   - Insight:
+     AI-search ecosystems increasingly reward firsthand expertise, original synthesis, and differentiated effort-based content over generic low-effort AI-generated publishing.
+
+### Video / Educational Research
+
+1. **Why GEO and AEO Are Mostly Rebranded SEO**
+   - Platform: YouTube / Educational Analysis
+   - Focus Areas:
+     - GEO and AEO strategy
+     - AI retrieval systems
+     - omnichannel SEO
+     - search-everywhere optimization
+     - AI citation ecosystems
+     - off-page authority systems
+     - retrieval-aware optimization
+     - AI-search visibility engineering
+   - Key Conclusion:
+     AI-search visibility increasingly depends on broad ecosystem-wide authority signals including SEO, PR, brand mentions, retrieval-source coverage, YouTube visibility, and off-site authority systems rather than isolated website optimization alone.
