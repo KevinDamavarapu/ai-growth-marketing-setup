@@ -203,7 +203,42 @@ The goal is to identify repeatable systems and operational insights relevant to 
    - Key Conclusion:
      High-quality AI-assisted content production depends on structured workflows, iterative refinement, organizational knowledge systems, and strong human editorial oversight rather than simple one-shot prompting.
 ------------
-| Julian Goldie | AI SEO workflows | YouTube, LinkedIn | Practical demonstrations of AI-assisted SEO systems |
+| Julian Goldie | Tactical SEO experimentation, AI-assisted publishing, authority leverage, AI automation systems | LinkedIn, YouTube, Tutorials | 2025–2026 | SEO educator and AI automation creator focused on tactical SEO experimentation, AI-assisted publishing workflows, platform authority leverage, AI-agent systems, and scalable operational automation. Strong emphasis on rapid implementation, workflow systems, AI productivity infrastructure, and AI-assisted SEO execution strategies. |
+
+---
+
+# Collected Sources - 20th May, 2026
+
+### LinkedIn Posts
+
+1. **Leveraging Reddit Authority for AI-Assisted SEO Growth**
+   - Platform: LinkedIn
+   - Focus: Platform authority leverage, Reddit SEO, AI-assisted repurposing
+   - Insight:
+     Leveraging high-authority platforms such as Reddit can accelerate SEO visibility compared to building rankings from brand-new websites. AI-assisted content repurposing workflows also improve publishing scalability and operational efficiency.
+
+2. **AI-Assisted Multi-Site SEO Publishing Using Claude Opus Workflows**
+   - Platform: LinkedIn
+   - Focus: AI-assisted SEO workflows, deployment automation, scalable publishing
+   - Insight:
+     AI-powered publishing systems become more effective when combined with structured workflows, real operational proof, reusable prompts, deployment automation, and iterative refinement processes.
+
+### Video / Tutorial Research
+
+1. **Hermes + Antigravity 2.0: Build ANYTHING!**
+   - Platform: YouTube / Tutorial
+   - Focus Areas:
+     - AI-agent ecosystems
+     - context engineering
+     - AI memory systems
+     - workflow orchestration
+     - operational AI infrastructure
+     - Obsidian knowledge systems
+     - AI automation workflows
+     - AI productivity systems
+   - Key Conclusion:
+     AI systems become significantly more powerful when integrated into structured operational ecosystems that include memory systems, context engineering, workflow automation, and persistent business knowledge infrastructure.
+------------
 | Sam Oh | SEO education | YouTube | Clear educational content explaining SEO systems and workflows |
 | Matt Diggity | Affiliate SEO, AI content testing | YouTube, Blog | Strong experimentation mindset and practical SEO testing |
 ------------
