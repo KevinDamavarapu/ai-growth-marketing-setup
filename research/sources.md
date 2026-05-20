@@ -240,7 +240,42 @@ The goal is to identify repeatable systems and operational insights relevant to 
      AI systems become significantly more powerful when integrated into structured operational ecosystems that include memory systems, context engineering, workflow automation, and persistent business knowledge infrastructure.
 ------------
 | Sam Oh | SEO education | YouTube | Clear educational content explaining SEO systems and workflows |
-| Matt Diggity | Affiliate SEO, AI content testing | YouTube, Blog | Strong experimentation mindset and practical SEO testing |
+------------
+| Matt Diggity | SEO recovery systems, AI Overview optimization, conversational SEO, authority engineering | LinkedIn, YouTube, Agency Research | 2025–2026 | SEO entrepreneur and founder of The Search Initiative focused on SEO recovery systems, AI Overview optimization, authority engineering, conversational search visibility, and operational SEO experimentation. Strong emphasis on data-driven SEO workflows, commercial search strategy, topical authority, and AI-era search visibility systems. |
+
+---
+
+# Collected Sources - 20th May, 2026
+
+### LinkedIn Posts
+
+1. **SEO Recovery and Seasonal Growth Strategy After Google Spam Updates**
+   - Platform: LinkedIn
+   - Focus: Algorithm recovery, commercial SEO, topical authority
+   - Insight:
+     Successful SEO recovery after algorithm updates requires structured remediation workflows including commercial-page prioritization, content quality improvements, authority rebuilding, seasonal timing optimization, and structured topical clustering.
+
+2. **AI-Era Google Search Console Workflows and AI Overview Visibility Monitoring**
+   - Platform: LinkedIn
+   - Focus: AI Overview tracking, SEO observability, operational analytics
+   - Insight:
+     AI-powered search systems are changing SEO measurement workflows. Preserving historical Search Console baselines, monitoring AI Overview visibility, and continuously auditing branded, non-branded, and AI-cited queries are becoming critical operational SEO tasks.
+
+### Video / Tutorial Research
+
+1. **Reddit SEO for AI Overviews and Conversational Search Visibility**
+   - Platform: YouTube / Tutorial
+   - Focus Areas:
+     - AI Overview optimization
+     - Reddit SEO
+     - conversational search visibility
+     - AI citation engineering
+     - AI retrieval systems
+     - off-page AI visibility
+     - community-driven SEO
+     - AI trust signals
+   - Key Conclusion:
+     AI search systems increasingly rely on trusted conversational platforms such as Reddit for recommendations and citations. AI-era SEO visibility therefore increasingly depends on authentic community participation, structured conversational content, and off-page conversational authority systems.
 ------------
 | Gael Breton | AI-assisted workflows, authority sites, operational SEO systems, AI automation | LinkedIn, YouTube, Podcasts | 2025–2026 | SEO entrepreneur and Authority Hacker co-founder focused on scalable SEO systems, AI-assisted workflows, operational marketing automation, authority site building, and AI-native productivity systems. Strong emphasis on practical implementation, workflow refinement, collaborative AI systems, and sustainable operational leverage using AI tools. |
 

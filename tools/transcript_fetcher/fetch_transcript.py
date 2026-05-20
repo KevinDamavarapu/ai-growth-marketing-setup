@@ -2,7 +2,7 @@ print("Script started successfully")
 from youtube_transcript_api import YouTubeTranscriptApi
 
 # Replace with your actual YouTube video ID
-video_id = "oCYpfIKyreQ"
+video_id = "f03ZfdtkMzk"
 
 try:
     ytt_api = YouTubeTranscriptApi()
