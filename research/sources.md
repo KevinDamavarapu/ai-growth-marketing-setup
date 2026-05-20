@@ -129,7 +129,41 @@ The goal is to identify repeatable systems and operational insights relevant to 
    - Key Conclusion:
      SEO is increasingly shifting toward transactional intent alignment, proprietary insights, AI visibility tracking, and cross-platform discoverability as AI-generated search experiences evolve.
 ------------
-| Bernard Huang | AI SEO tools, content optimization | LinkedIn, YouTube | Founder perspective on AI-assisted content optimization workflows |
+| Bernard Huang | GEO, AEO, AI retrieval systems, conversational search, AI visibility | LinkedIn, YouTube, Podcasts | 2025–2026 | AI search strategist focused on Generative Engine Optimization (GEO), Answer Engine Optimization (AEO), AI retrieval behavior, prompt fan-out systems, conversational search, and semantic visibility. Strong emphasis on experimental AI-search workflows, prompt behavior analysis, retrieval systems, and AI-native search optimization strategies. |
+
+---
+
+# Collected Sources - 20th May, 2026
+
+### LinkedIn Posts
+
+1. **Fan-Out Query Stability in AI Search and AEO Strategy**
+   - Platform: LinkedIn
+   - Focus: AEO experimentation, fan-out query analysis, prompt stability
+   - Insight:
+     High-frequency fan-out queries represent stable AI retrieval behavior, while low-frequency fan-out queries indicate highly variable and inconsistent AI-generated search pathways.
+
+2. **Iterative AEO Experimentation and Prompt Intent Validation**
+   - Platform: LinkedIn
+   - Focus: AI visibility tracking, prompt intent classification, brand mention optimization
+   - Insight:
+     AI visibility optimization depends heavily on prompt intent classification. Some prompts naturally trigger educational AI responses instead of commercial recommendations, making prompt selection as important as content production.
+
+### Video / Podcast Research
+
+1. **How GEO Actually Works w/ Bernard Huang**
+   - Platform: YouTube / Podcast Interview
+   - Focus Areas:
+     - Generative Engine Optimization (GEO)
+     - Answer Engine Optimization (AEO)
+     - AI retrieval systems
+     - conversational search
+     - entity-based optimization
+     - AI visibility measurement
+     - reasoning chains
+     - semantic search systems
+   - Key Conclusion:
+     AI-powered search systems retrieve and reason about information differently from traditional search engines. Future AI visibility strategies will increasingly depend on semantic relationships, entity mentions, retrieval behavior, and conversational search optimization rather than traditional keyword-focused SEO alone.
 ------------
 | Ryan Law | AI-assisted content operations, editorial systems, scalable content workflows | LinkedIn, YouTube, Podcasts | 2025–2026 | Director of Content Marketing at Ahrefs focused on AI-assisted content production, editorial workflows, content governance, scalable SEO operations, and human-in-the-loop AI systems. Strong emphasis on operationalizing content strategy through structured AI workflows and iterative refinement systems. |
 

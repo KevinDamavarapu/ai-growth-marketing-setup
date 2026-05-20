@@ -5,7 +5,6 @@
 - Expert: Kevin Indig
 - Format: Podcast Interview
 - Podcast: The Page 2 Podcast (https://youtu.be/qujABKOAThA?si=oA9ynxBf4ZAWDEbq)
-- Duration: 56 minutes
 - Topic Areas:
   - AI Search
   - Google AI Overviews
