@@ -206,5 +206,41 @@ The goal is to identify repeatable systems and operational insights relevant to 
 | Julian Goldie | AI SEO workflows | YouTube, LinkedIn | Practical demonstrations of AI-assisted SEO systems |
 | Sam Oh | SEO education | YouTube | Clear educational content explaining SEO systems and workflows |
 | Matt Diggity | Affiliate SEO, AI content testing | YouTube, Blog | Strong experimentation mindset and practical SEO testing |
-| Gael Breton | Authority sites, content scaling | YouTube, Podcasts | Deep operational understanding of scalable SEO businesses |
+------------
+| Gael Breton | AI-assisted workflows, authority sites, operational SEO systems, AI automation | LinkedIn, YouTube, Podcasts | 2025–2026 | SEO entrepreneur and Authority Hacker co-founder focused on scalable SEO systems, AI-assisted workflows, operational marketing automation, authority site building, and AI-native productivity systems. Strong emphasis on practical implementation, workflow refinement, collaborative AI systems, and sustainable operational leverage using AI tools. |
+
+---
+
+# Collected Sources - 20th May, 2026
+
+### LinkedIn Posts
+
+1. **AI-Native Website Infrastructure vs Traditional WordPress Workflows**
+   - Platform: LinkedIn
+   - Focus: AI-assisted development, static-site architecture, operational simplicity
+   - Insight:
+     Modern AI-assisted website workflows using lightweight frameworks, semantic HTML, APIs, and AI coding assistants can outperform many traditional plugin-heavy WordPress setups in performance, scalability, and operational efficiency.
+
+2. **Information Gain and AI-Assisted Research Workflows for Content Creation**
+   - Platform: LinkedIn
+   - Focus: AI content systems, information gain, AI-assisted research workflows
+   - Insight:
+     Most AI-generated content lacks original information gain because it simply rewrites existing search results. Higher-value AI content increasingly depends on better research systems, user frustration analysis, and alternative insight sources such as Reddit, YouTube, and community discussions.
+
+### Video / Podcast Research
+
+1. **AI Expert Exposes the OpenClaw & Moltbook Hype (Avoid This)**
+   - Platform: YouTube / Podcast Interview
+   - Focus Areas:
+     - AI agents
+     - Claude Code workflows
+     - AI automation systems
+     - human-in-the-loop AI
+     - AI productivity systems
+     - AI-assisted marketing
+     - AI workflow engineering
+     - operational AI systems
+   - Key Conclusion:
+     Fully autonomous AI-agent systems remain unreliable and operationally risky. The most effective AI implementations currently involve collaborative human-in-the-loop workflows where AI acts as a productivity amplifier rather than a fully autonomous replacement system.
+------------
 | Nathan Gotch | SEO systems and automation | YouTube, Blog | Focuses on repeatable SEO frameworks and automation |
