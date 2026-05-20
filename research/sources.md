@@ -20,8 +20,6 @@ The goal is to identify repeatable systems and operational insights relevant to 
 
 | Kevin Indig | AI search, SEO strategy, content systems | LinkedIn, YouTube, Podcasts | 2026 | Research-driven SEO strategist focused on AI Overviews, LLM optimization, content structure, and evolving search behavior. Strong emphasis on AI visibility, trust systems, and cross-platform discoverability. |
 
----
-
 Collected Sources - 19th May, 2026
 
 ### LinkedIn Posts
@@ -52,10 +50,9 @@ Collected Sources - 19th May, 2026
      - content structure
    - Key Conclusion:
      SEO is evolving from a click-focused discipline toward an influence, trust, and visibility-driven ecosystem shaped by AI-generated answers.
+---
 
 | Lily Ray | AI search, Google quality systems, E-E-A-T, AI content risk | LinkedIn, YouTube, Conferences | 2025–2026 | SEO strategist focused on AI search evolution, search quality systems, E-E-A-T, AI-generated content risks, and the relationship between traditional SEO and emerging AI search ecosystems. Strong emphasis on sustainable SEO, reputation signals, and AI visibility grounded in search fundamentals. |
-
----
 
 Collected Sources - 19th May, 2026
 
@@ -89,10 +86,9 @@ Collected Sources - 19th May, 2026
      - AI citations
    - Key Conclusion:
      AI search represents an evolution of SEO rather than a replacement for it. Most effective AI visibility strategies are still grounded in strong SEO fundamentals, structured content, reputation management, and discoverability across trusted platforms.
+---
 
 | Ross Hudgens | AI visibility, transactional SEO, data journalism, content operations | LinkedIn, YouTube, Podcasts | 2025–2026 | Founder of Siege Media focused on scalable SEO systems, AI visibility tracking, bottom-funnel content strategy, data journalism, and AI-assisted content workflows. Strong emphasis on transactional SEO, proprietary data, and cross-platform discoverability in AI-driven search ecosystems. |
-
----
 
 Collected Sources - 19th May, 2026
 
@@ -124,10 +120,9 @@ Collected Sources - 19th May, 2026
      - content refresh systems
    - Key Conclusion:
      SEO is increasingly shifting toward transactional intent alignment, proprietary insights, AI visibility tracking, and cross-platform discoverability as AI-generated search experiences evolve.
+---
 
 | Bernard Huang | GEO, AEO, AI retrieval systems, conversational search, AI visibility | LinkedIn, YouTube, Podcasts | 2025–2026 | AI search strategist focused on Generative Engine Optimization (GEO), Answer Engine Optimization (AEO), AI retrieval behavior, prompt fan-out systems, conversational search, and semantic visibility. Strong emphasis on experimental AI-search workflows, prompt behavior analysis, retrieval systems, and AI-native search optimization strategies. |
-
----
 
 Collected Sources - 20th May, 2026
 
@@ -160,10 +155,9 @@ Collected Sources - 20th May, 2026
      - semantic search systems
    - Key Conclusion:
      AI-powered search systems retrieve and reason about information differently from traditional search engines. Future AI visibility strategies will increasingly depend on semantic relationships, entity mentions, retrieval behavior, and conversational search optimization rather than traditional keyword-focused SEO alone.
+---
 
 | Ryan Law | AI-assisted content operations, editorial systems, scalable content workflows | LinkedIn, YouTube, Podcasts | 2025–2026 | Director of Content Marketing at Ahrefs focused on AI-assisted content production, editorial workflows, content governance, scalable SEO operations, and human-in-the-loop AI systems. Strong emphasis on operationalizing content strategy through structured AI workflows and iterative refinement systems. |
-
----
 
 Collected Sources - 19th May, 2026
 
@@ -196,10 +190,9 @@ Collected Sources - 19th May, 2026
      - AI + human collaboration
    - Key Conclusion:
      High-quality AI-assisted content production depends on structured workflows, iterative refinement, organizational knowledge systems, and strong human editorial oversight rather than simple one-shot prompting.
+---
 
 | Julian Goldie | Tactical SEO experimentation, AI-assisted publishing, authority leverage, AI automation systems | LinkedIn, YouTube, Tutorials | 2025–2026 | SEO educator and AI automation creator focused on tactical SEO experimentation, AI-assisted publishing workflows, platform authority leverage, AI-agent systems, and scalable operational automation. Strong emphasis on rapid implementation, workflow systems, AI productivity infrastructure, and AI-assisted SEO execution strategies. |
-
----
 
 Collected Sources - 20th May, 2026
 
@@ -232,10 +225,9 @@ Collected Sources - 20th May, 2026
      - AI productivity systems
    - Key Conclusion:
      AI systems become significantly more powerful when integrated into structured operational ecosystems that include memory systems, context engineering, workflow automation, and persistent business knowledge infrastructure.
+---
 
 | Koray Tuğberk GÜBÜR | Semantic SEO, topical authority, search-system architecture, retrieval-aware optimization | LinkedIn, YouTube, Podcast Interviews | 2025–2026 | Semantic SEO researcher and founder of Holistic SEO focused on topical authority engineering, semantic retrieval systems, contextual relevance, information retrieval mechanics, AI-era search systems, and search-system architecture. Strong emphasis on semantic relationships, historical authority, retrieval-aware optimization, and advanced search-system methodology. |
-
----
 
 Collected Sources - 20th May, 2026
 
@@ -269,10 +261,8 @@ Collected Sources - 20th May, 2026
      - operational SEO methodology
    - Key Conclusion:
      Modern SEO increasingly depends on semantic organization, topical authority, contextual relevance, and retrieval-aware optimization systems that align naturally with AI-powered search and large language model ecosystems.
-
-| Matt Diggity | SEO recovery systems, AI Overview optimization, conversational SEO, authority engineering | LinkedIn, YouTube, Agency Research | 2025–2026 | SEO entrepreneur and founder of The Search Initiative focused on SEO recovery systems, AI Overview optimization, authority engineering, conversational search visibility, and operational SEO experimentation. Strong emphasis on data-driven SEO workflows, commercial search strategy, topical authority, and AI-era search visibility systems. |
-
 ---
+| Matt Diggity | SEO recovery systems, AI Overview optimization, conversational SEO, authority engineering | LinkedIn, YouTube, Agency Research | 2025–2026 | SEO entrepreneur and founder of The Search Initiative focused on SEO recovery systems, AI Overview optimization, authority engineering, conversational search visibility, and operational SEO experimentation. Strong emphasis on data-driven SEO workflows, commercial search strategy, topical authority, and AI-era search visibility systems. |
 
 Collected Sources - 20th May, 2026
 
@@ -305,10 +295,9 @@ Collected Sources - 20th May, 2026
      - AI trust signals
    - Key Conclusion:
      AI search systems increasingly rely on trusted conversational platforms such as Reddit for recommendations and citations. AI-era SEO visibility therefore increasingly depends on authentic community participation, structured conversational content, and off-page conversational authority systems.
+---
 
 | Gael Breton | AI-assisted workflows, authority sites, operational SEO systems, AI automation | LinkedIn, YouTube, Podcasts | 2025–2026 | SEO entrepreneur and Authority Hacker co-founder focused on scalable SEO systems, AI-assisted workflows, operational marketing automation, authority site building, and AI-native productivity systems. Strong emphasis on practical implementation, workflow refinement, collaborative AI systems, and sustainable operational leverage using AI tools. |
-
----
 
 Collected Sources - 20th May, 2026
 
@@ -341,10 +330,9 @@ Collected Sources - 20th May, 2026
      - operational AI systems
    - Key Conclusion:
      Fully autonomous AI-agent systems remain unreliable and operationally risky. The most effective AI implementations currently involve collaborative human-in-the-loop workflows where AI acts as a productivity amplifier rather than a fully autonomous replacement system.
+---
 
 | Nathan Gotch | AI-assisted SEO systems, search-everywhere optimization, authority engineering, semantic content strategy | LinkedIn, YouTube, Educational Analysis | 2025–2026 | SEO educator and founder of Gotch SEO focused on AI-assisted SEO systems, search-everywhere optimization, semantic content engineering, authority building, and AI-era search visibility. Strong emphasis on operational SEO workflows, retrieval-aware optimization, differentiated content strategy, and omnichannel brand authority systems. |
-
----
 
 Collected Sources - 20th May, 2026
 
