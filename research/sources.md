@@ -239,7 +239,42 @@ The goal is to identify repeatable systems and operational insights relevant to 
    - Key Conclusion:
      AI systems become significantly more powerful when integrated into structured operational ecosystems that include memory systems, context engineering, workflow automation, and persistent business knowledge infrastructure.
 ------------
-| Sam Oh | SEO education | YouTube | Clear educational content explaining SEO systems and workflows |
+| Koray Tuğberk GÜBÜR | Semantic SEO, topical authority, search-system architecture, retrieval-aware optimization | LinkedIn, YouTube, Podcast Interviews | 2025–2026 | Semantic SEO researcher and founder of Holistic SEO focused on topical authority engineering, semantic retrieval systems, contextual relevance, information retrieval mechanics, AI-era search systems, and search-system architecture. Strong emphasis on semantic relationships, historical authority, retrieval-aware optimization, and advanced search-system methodology. |
+
+---
+
+# Collected Sources - 20th May, 2026
+
+### LinkedIn Posts
+
+1. **Liquid SERP and the Future of Runtime-Generated Search Interfaces**
+   - Platform: LinkedIn
+   - Focus: Future search systems, dynamic interfaces, AI-powered search architecture
+   - Insight:
+     Search engines are evolving from fixed-result interfaces into dynamic intent-driven systems capable of generating runtime UI components, orchestrating applications, and functioning as operational AI layers rather than traditional retrieval pages.
+
+2. **Freshness-Based Ranking, Historical Authority, and Query-Dependent Search Systems**
+   - Platform: LinkedIn
+   - Focus: Query-deserved freshness, temporal ranking systems, historical authority
+   - Insight:
+     Google’s freshness systems dynamically evaluate whether a query deserves newer information while balancing historical authority, user demand, document-version age, and semantic retrieval signals.
+
+### Video / Podcast Research
+
+1. **He Created an SEO Methodology. Then Everyone Tried to Steal It**
+   - Platform: YouTube / Podcast Interview
+   - Focus Areas:
+     - semantic SEO
+     - topical authority
+     - search-system architecture
+     - retrieval-aware optimization
+     - algorithmic authorship
+     - relevance configuration
+     - AI-search evolution
+     - contextual relevance systems
+     - operational SEO methodology
+   - Key Conclusion:
+     Modern SEO increasingly depends on semantic organization, topical authority, contextual relevance, and retrieval-aware optimization systems that align naturally with AI-powered search and large language model ecosystems.
 ------------
 | Matt Diggity | SEO recovery systems, AI Overview optimization, conversational SEO, authority engineering | LinkedIn, YouTube, Agency Research | 2025–2026 | SEO entrepreneur and founder of The Search Initiative focused on SEO recovery systems, AI Overview optimization, authority engineering, conversational search visibility, and operational SEO experimentation. Strong emphasis on data-driven SEO workflows, commercial search strategy, topical authority, and AI-era search visibility systems. |
 
