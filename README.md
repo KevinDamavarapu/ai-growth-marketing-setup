@@ -32,3 +32,38 @@ The goal is to:
     /linkedin-posts
     /youtube-transcripts
     /other
+
+## Technical Tooling and Automation
+
+To support scalable research workflows, the repository includes lightweight transcript automation tooling using Python and YouTube transcript APIs.
+
+### Implemented Workflow
+
+- Automated YouTube transcript extraction
+- Timestamped transcript collection
+- Structured transcript storage
+- AI-assisted transcript analysis workflows
+- Manual fallback collection methods for unsupported videos
+
+### Tooling Stack
+
+- Python
+- youtube-transcript-api
+- GitHub
+- Cursor IDE
+- Claude Code
+- AI-assisted content synthesis workflows
+
+### Operational Workflow
+
+1. Identify relevant expert interviews and podcast episodes
+2. Extract transcripts using API-assisted tooling
+3. Store raw transcripts for reference and traceability
+4. Generate structured summaries and insights
+5. Organize research into reusable knowledge systems
+
+This workflow improves:
+- scalability,
+- consistency,
+- and operational efficiency
+for AI-powered SEO and growth marketing research.
