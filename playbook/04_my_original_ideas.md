@@ -8,7 +8,7 @@ The following ideas were developed after comparing multiple expert perspectives 
 
 **Originality Statement**
 
-During my review of the collected LinkedIn posts, YouTube videos, and interviews, I did not encounter either of the workflow concepts described below. While both ideas build upon recurring themes in the research—such as AI-assisted content production, human editorial oversight, and operational scalability—the proposed workflows are my own extensions of those ideas rather than recommendations taken directly from any individual source.
+During my review of the collected LinkedIn posts, YouTube videos, and interviews, I did not encounter either of the workflow concepts described below. While both ideas build upon recurring themes in the research - such as AI-assisted content production, human editorial oversight, and operational scalability - the proposed workflows are my own extensions of those ideas rather than recommendations taken directly from any individual source.
 ---
 
 # Original Idea 1

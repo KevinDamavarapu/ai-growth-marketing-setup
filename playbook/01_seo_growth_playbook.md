@@ -127,8 +127,6 @@ All supporting repository references, original source links, and research materi
 
 ---
 
----
-
 # 7. Recommendations
 
 The following recommendations form the operational Standard Operating Procedure (SOP) developed from the research conducted for this project. Each recommendation represents a synthesis of insights gathered from multiple experts rather than the methodology of any single individual. Supporting sources are provided with every recommendation, while complete repository references and original source links are documented in `references.md`.

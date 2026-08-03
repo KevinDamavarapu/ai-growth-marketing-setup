@@ -99,6 +99,6 @@ Across the experts I researched, there was broad agreement that AI can significa
 
 For that reason, this playbook intentionally prioritizes sustainable SEO principles over short-term operational gains. AI is treated as an enabler of high-quality content production, not a substitute for human expertise or strategic decision-making. Similarly, emerging AI search optimization techniques are incorporated as an extension of strong SEO fundamentals rather than as a replacement for them.
 
-Ultimately, every recommendation in this playbook is guided by the same principle: AI should enhance—not replace—sound SEO strategy.
+Ultimately, every recommendation in this playbook is guided by the same principle: AI should enhance-not replace-sound SEO strategy.
 
 The workflows documented throughout this playbook are therefore designed to combine the speed and scalability of AI with the editorial judgment, topical expertise, and strategic thinking required to produce trustworthy, high-quality content that delivers measurable business outcomes.
